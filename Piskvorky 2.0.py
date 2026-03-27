@@ -14,7 +14,7 @@ def grid_output (grid,col_input):
         print(f"{row_pos} {' '.join(row)}")
         row_pos +=1
 #Function for player's move
-def player_input (player, grid,x_input,y_input,empty_sign):
+def player_input (player, grid,y_input,x_input,empty_sign):
     print(f"Playing player: {player}")
 
     while True:
