@@ -1,0 +1,13 @@
+span_id,region,type,span_m,tension_kN,weight_kNm,year_built,max_speed_ms
+SK-01,Tatry,gondola,180,850,1.8,2005,6.0
+SK-02,Tatry,chairlift,220,1100,2.1,2012,5.0
+SK-03,Fatras,gondola,145,,1.6,1998,4.5
+SK-04,Fatras,gondola,310,1450,2.4,2019,6.0
+SK-05,Tatry,chairlift,175,900,,2008,5.0
+SK-06,Nízke Tatry,gondola,260,1200,2.2,2015,6.0
+SK-07,Nízke Tatry,chairlift,,950,1.7,2003,4.5
+SK-08,Fatras,chairlift,190,880,1.9,2011,5.0
+SK-09,Tatry,gondola,240,1300,2.0,,6.0
+SK-10,Nízke Tatry,gondola,200,1050,1.8,2017,5.5
+SK-11,Tatry,gondola,290,1380,2.3,2016,6.0
+SK-12,Fatras,chairlift,160,780,1.7,2001,4.5

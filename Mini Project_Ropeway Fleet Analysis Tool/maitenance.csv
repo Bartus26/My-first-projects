@@ -1,0 +1,11 @@
+span_id,last_service,service_type,cost_eur,technician
+SK-01,2023-03-15,full,4500,Novák
+SK-02,2023-09-20,partial,1800,Kováč
+SK-03,2022-05-10,full,5200,Horváth
+SK-04,2024-02-28,partial,2100,Novák
+SK-05,2023-06-14,full,4800,Kováč
+SK-07,2022-11-30,partial,1600,Horváth
+SK-08,2023-01-08,full,5100,Novák
+SK-09,2024-03-15,partial,1900,Kováč
+SK-11,2023-08-22,full,4700,Horváth
+SK-12,2022-02-14,full,5500,Novák
